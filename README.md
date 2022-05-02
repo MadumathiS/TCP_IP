@@ -4,18 +4,30 @@ As a junior network administrator looking for a first job opportunity, you have 
 
 You have been asked to prepare for the interview in two ways, the first one being to complete a quizz to assess your general theoretical understanding of the TCP/IP model. Try to find an answer for each one of the questions below.
 
-What are the differences between the OSI model and the TCP/IP model?
-How many layers do these two models have?
-What do the acronyms TCP and IP refer to?
-List the different layers of the TCP/IP model.
-Give some examples of protocols and indicate which one of TCP/IP model layer they refer to.
-Explain how a connection gets established, in other words, explain the "3-way handshake" process?
-Explain how a connection is terminated, in other words, explain the "4-way disconnect" process?
-Explain what are the "sequence number" and "acknowledgment number" in TCP.
-What is the fundamental difference between TCP and UDP ?
-What are TCP ports? How many of them are they? What are the three main categories of TCP Ports (with there associated range)?
-Provide three examples of well-know port numbers and tell to which Application layer protocol they refer to.
-Explain the concept of TCP packets and how they are build over the layer flow.
+1. What are the differences between the OSI model and the TCP/IP model?
+
+2. How many layers do these two models have?
+
+3. What do the acronyms TCP and IP refer to?
+
+4. List the different layers of the TCP/IP model.
+
+5. Give some examples of protocols and indicate which one of TCP/IP model layer they refer to.
+
+6. Explain how a connection gets established, in other words, explain the "3-way handshake" process?
+
+7. Explain how a connection is terminated, in other words, explain the "4-way disconnect" process?
+
+8. Explain what are the "sequence number" and "acknowledgment number" in TCP.
+
+9. What is the fundamental difference between TCP and UDP ?
+
+10. What are TCP ports? How many of them are they? What are the three main categories of TCP Ports (with there associated range)?
+
+11. Provide three examples of well-know port numbers and tell to which Application layer protocol they refer to.
+
+12. Explain the concept of TCP packets and how they are build over the layer flow.
+
 Your second task is to analyse a suspicious piece of network traffic captured in the following .pcap file. To visualize it you should use Wireshark, a network protocol analyzer, and answer the questions below to discover what suspicious activity lie within.
 
 Which systems (i.e. IP addresses) are involved?
