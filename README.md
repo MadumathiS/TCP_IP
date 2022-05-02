@@ -30,25 +30,34 @@ You have been asked to prepare for the interview in two ways, the first one bein
 
 Your second task is to analyse a suspicious piece of network traffic captured in the following .pcap file. To visualize it you should use Wireshark, a network protocol analyzer, and answer the questions below to discover what suspicious activity lie within.
 
-Which systems (i.e. IP addresses) are involved?
-What can you find out about the attacking host (e.g., where is it located)?
-How many TCP sessions are contained in the dump file?
-How long did it take to perform the attack?
-Which operating system was targeted by the attack? And which service? Which vulnerability?
-Can you sketch an overview of the general actions performed by the attacker? Which are the protocols involved? What can you tell about the payload?
+- Which systems (i.e. IP addresses) are involved?
+
+- What can you find out about the attacking host (e.g., where is it located)?
+
+- How many TCP sessions are contained in the dump file?
+
+- How long did it take to perform the attack?
+
+- Which operating system was targeted by the attack? And which service? Which vulnerability?
+
+- Can you sketch an overview of the general actions performed by the attacker? Which are the protocols involved? What can you tell about the payload?
+
 In order to validate this challenge you will have to make a pull request with your answer for both sets of questions in this folder of your training's repository. If you have multiple files use a subfolder (<your_name>, snake_cased).
 
 NOTE: In order for you to understand how computers exchange data over a network (LAN or WAN), you must be able to grasp the TCP/IP Model. Therefore, the main purpose of this briefing is for you to correctly conceptualize TCP/IP so that you can explain how it works and what are its key features (TCP segment structure, Connection establishment, Connection termination, ...).
 
 Complementary Resources
-Wiki page: OSI Model
-Wiki page: Transmission Control Protocol
-Wiki page: Internet protocol suite
-Video: TCP Fundamentals Part 1 - Wireshark Talks at Sharkfest
-Video: TCP Fundamentals Part 2 - Wireshark Talks at Sharkfest
-Documentation: Wireshark documentation
-Notes: Wireshark Cheat Sheet
-Video: Wireshark and TCP
-Final Words
+- Wiki page: [OSI Model](https://en.wikipedia.org/wiki/OSI_model)
+- Wiki page: [Transmission Control Protocol](https://en.wikipedia.org/wiki/Transmission_Control_protocl)
+- Wiki page: [Internet protocol suite](https://en.wikipedia.org/wiki/Internet_protocol_suite)
+- Video: [TCP Fundamentals Part 1 - Wireshark Talks at Sharkfest](https://www.youtube.com/watch?v=xdQ9sgpkrX8)
+- Video: [TCP Fundamentals Part 2 - Wireshark Talks at Sharkfest](https://www.youtube.com/watch?v=NdvWI6RH1eo)
+- Documentation: [Wireshark documentation](https://www.wireshark.org/docs/)
+- Notes: [Wireshark Cheat Sheet](https://cdn.comparitech.com/wp-content/uploads/2019/06/Wireshark-Cheat-Sheet-1.jpg)
+- Video: [Wireshark and TCP](https://www.youtube.com/watch?v=HCHFX5O1IaQ&list=PLMLm7-g0V0keOCLWqodqXn56UfcdA0D_Q)
+
+
+# Final Words
+
 Learning about TCP/IP can be overwhelming at first, but remember, you don't need to learn every single bits of it by heart, rather you need to have an idea of how it all work. To help you in this difficult task, here is a wonderful song that will teach you all you need to know!
 
